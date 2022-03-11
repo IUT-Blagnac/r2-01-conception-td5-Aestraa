@@ -34,7 +34,7 @@ NOM:: MOINY
 
 Prénom:: Yanis
 
-Groupe #::
+Groupe #:: 1B
 
 [%interactive]
 - [X] Enseignants
